@@ -36,7 +36,8 @@ nav li {
 
 .main {
     /* background-color: yellow; */
-    width: 90vw;
+        background-color: #c47a45;
+        width: 90vw;
 }
 
 .container {
